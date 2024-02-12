@@ -9,10 +9,15 @@ def cluster_image(image_path, num_clusters, save_path=None):
     Perform K-means clustering on an image.
 
     Args:
-    image_path (str): The path to the input image file.
-    num_clusters (int): The number of clusters for K-means.
-    save_path (str): The path to save the clustered image (default is None).
+        image_path (str): The path to the input image file.
+        num_clusters (int): The number of clusters for K-means.
+        save_path (str, optional): The path to save the clustered image. Defaults to None.
 
+    Returns:
+        None
+
+    Example:
+        cluster_image('input_image.jpg', 5, 'clustered_image.jpg')
     """
     # Read the image
     image = np.asarray(PIL.Image.open(image_path))
