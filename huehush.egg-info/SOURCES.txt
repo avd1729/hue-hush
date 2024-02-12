@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+huehush/__init__.py
+huehush.egg-info/PKG-INFO
+huehush.egg-info/SOURCES.txt
+huehush.egg-info/dependency_links.txt
+huehush.egg-info/requires.txt
+huehush.egg-info/top_level.txt

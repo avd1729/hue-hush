@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-chroma_squeeze/__init__.py
-chroma_squeeze.egg-info/PKG-INFO
-chroma_squeeze.egg-info/SOURCES.txt
-chroma_squeeze.egg-info/dependency_links.txt
-chroma_squeeze.egg-info/requires.txt
-chroma_squeeze.egg-info/top_level.txt
