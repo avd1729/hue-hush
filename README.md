@@ -1,4 +1,4 @@
-# Chroma Squeeze
+# Hue Hush
 
 This Python module performs K-means clustering on an image to segment it into a specified number of clusters.
 
@@ -7,13 +7,13 @@ This Python module performs K-means clustering on an image to segment it into a 
 You can install the module via pip:
 
 ```bash
-pip install chroma_squeeze==0.0.1
+pip install huehush==0.0.1
 ```
 
 ## Usage
 
 ```python
-from chroma_squeeze import cluster_image
+from huehush import cluster_image
 
 # Example usage:
 cluster_image('input_image.jpg', num_clusters=5, save_path='clustered_image.jpg')
@@ -36,7 +36,7 @@ This would read the 'input_image.jpg', perform K-means clustering with 5 cluster
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/avd1729/Chroma-Squeeze/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/avd1729/hue-hush/blob/main/LICENSE) file for details.
 
 ## Credits
 
