@@ -7,7 +7,7 @@ setuptools.setup(
     name="chroma-squeeze",
     version="0.0.1",
     author="Aravind.M.S",
-    author_email="aravind19112003.com",
+    author_email="aravind19112003@gmail.com",
     packages=["chroma-squeeze"],
     description="chroma-squeeze is a Python module that provides functionality to segment images into distinct clusters using the K-means clustering algorithm. This module is useful for tasks such as image segmentation, color quantization, and image compression.",
     long_description=description,
