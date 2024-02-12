@@ -7,13 +7,13 @@ This Python module performs K-means clustering on an image to segment it into a 
 You can install the module via pip:
 
 ```bash
-pip install chroma-squeeze==0.0.1
+pip install chroma_squeeze==0.0.1
 ```
 
 ## Usage
 
 ```python
-from chroma-squeeze import cluster_image
+from chroma_squeeze import cluster_image
 
 # Example usage:
 cluster_image('input_image.jpg', num_clusters=5, save_path='clustered_image.jpg')
