@@ -1,1 +1,1 @@
-chroma-squeeze
+chroma_squeeze

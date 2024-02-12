@@ -1,7 +1,7 @@
 LICENSE
 README.md
 setup.py
-chroma-squeeze/__init__.py
+chroma_squeeze/__init__.py
 chroma_squeeze.egg-info/PKG-INFO
 chroma_squeeze.egg-info/SOURCES.txt
 chroma_squeeze.egg-info/dependency_links.txt
