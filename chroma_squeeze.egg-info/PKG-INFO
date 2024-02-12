@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: chroma-squeeze
-Version: 0.0.2
+Version: 0.0.3
 Summary: chroma_squeeze is a Python module that provides functionality to segment images into distinct clusters using the K-means clustering algorithm. This module is useful for tasks such as image segmentation, color quantization, and image compression.
 Home-page: https://github.com/avd1729/Chroma-Squeeze
 Author: Aravind.M.S

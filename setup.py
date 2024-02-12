@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="chroma_squeeze",
-    version="0.0.2",
+    version="0.0.3",
     author="Aravind.M.S",
     author_email="aravind19112003@gmail.com",
     packages=["chroma_squeeze"],
