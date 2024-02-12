@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: huehush
-Version: 0.0.1
+Version: 0.0.2
 Summary: huehush is a Python module that provides functionality to segment images into distinct clusters using the K-means clustering algorithm. This module is useful for tasks such as image segmentation, color quantization, and image compression.
 Home-page: https://github.com/avd1729/hue-hush
 Author: Aravind.M.S
@@ -10,7 +10,7 @@ Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# Chroma Squeeze
+# Hue Hush
 
 This Python module performs K-means clustering on an image to segment it into a specified number of clusters.
 
@@ -19,13 +19,13 @@ This Python module performs K-means clustering on an image to segment it into a 
 You can install the module via pip:
 
 ```bash
-pip install chroma_squeeze==0.0.1
+pip install huehush==0.0.1
 ```
 
 ## Usage
 
 ```python
-from chroma_squeeze import cluster_image
+from huehush import cluster_image
 
 # Example usage:
 cluster_image('input_image.jpg', num_clusters=5, save_path='clustered_image.jpg')
@@ -48,7 +48,7 @@ This would read the 'input_image.jpg', perform K-means clustering with 5 cluster
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/avd1729/Chroma-Squeeze/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/avd1729/hue-hush/blob/main/LICENSE) file for details.
 
 ## Credits
 
