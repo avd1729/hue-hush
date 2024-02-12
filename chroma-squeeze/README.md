@@ -1,7 +1,3 @@
-Absolutely, let's improve the README with more detailed information and formatting:
-
----
-
 # Chroma Squeeze
 
 This Python module performs K-means clustering on an image to segment it into a specified number of clusters.
