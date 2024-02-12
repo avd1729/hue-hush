@@ -36,7 +36,7 @@ This would read the 'input_image.jpg', perform K-means clustering with 5 cluster
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/avd1729/Chroma-Squeeze/blob/main/chroma-squeeze/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/avd1729/Chroma-Squeeze/blob/main/LICENSE) file for details.
 
 ## Credits
 
