@@ -38,6 +38,10 @@ This would read the 'input_image.jpg', perform K-means clustering with 5 cluster
 
 This project is licensed under the Apache License - see the [LICENSE](https://github.com/avd1729/hue-hush/blob/main/LICENSE) file for details.
 
+## Stats
+
+https://pypistats.org/packages/huehush
+
 ## Credits
 
 - [numpy](https://numpy.org/)
