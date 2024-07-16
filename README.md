@@ -7,7 +7,7 @@ This Python module performs K-means clustering on an image to segment it into a 
 You can install the module via pip:
 
 ```bash
-pip install huehush==0.0.1
+pip install huehush==0.0.2
 ```
 
 ## Usage
